@@ -40,6 +40,7 @@ Inherits Application
 		    
 		  end if
 		  
+		  Quit
 		End Sub
 	#tag EndMethod
 
